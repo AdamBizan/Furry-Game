@@ -1,7 +1,7 @@
-# Furry-Game
-### Simply JavaScript Game 
+### Furry-Game
+# Simply JavaScript Game 
 
-# Technologies
+Technologies:
 ```
 HTML
 CSS
