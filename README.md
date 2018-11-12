@@ -3,9 +3,9 @@
 
 Technologies:
 ```
-REACT
+HTML
+CSS
 JavaScript
-AJAX
 
 ```
 Demo : https://adambizan.github.io/Furry-Game/.
