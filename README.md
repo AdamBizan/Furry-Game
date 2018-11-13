@@ -1,12 +1,23 @@
 # Furry-Game
-### Simply JavaScript Game 
+### Simply JavaScript game with OOP approach
+
+## How to play?
+
+* Control Furry with arrows keys
+* Collect as many coins as you can
+* Don't hit the wall...
+
+## Web development tools:
+
+* Webpack
 
 Technologies:
 ```
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ```
-Demo : https://adambizan.github.io/Furry-Game/.
+
+Demo : [Furry-Game](https://adambizan.github.io/Furry-Game/)
 
