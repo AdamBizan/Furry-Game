@@ -5,7 +5,7 @@
 
 * Control Furry with arrows keys
 * Collect as many coins as you can
-* Don't hit the wall...
+* Avoid walls or you will crash!
 
 ## Web development tools:
 
