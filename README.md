@@ -7,17 +7,13 @@
 * Collect as many coins as you can
 * Avoid walls or you will crash!
 
-## Web development tools:
+## Technologies:
 
-* Webpack
-
-Technologies:
-```
 * HTML
 * CSS
 * JavaScript
 
-```
+
 
 Demo : [Furry-Game](https://adambizan.github.io/Furry-Game/)
 
